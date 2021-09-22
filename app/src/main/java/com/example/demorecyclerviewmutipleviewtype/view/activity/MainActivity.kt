@@ -1,7 +1,7 @@
 package com.example.demorecyclerviewmutipleviewtype.view.activity
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.example.demorecyclerviewmutipleviewtype.R
 
 class MainActivity : AppCompatActivity() {
